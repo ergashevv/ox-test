@@ -1,0 +1,13 @@
+{
+  "name": "auth-sync-manager-tests",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "typescript": "^4.9.0"
+  }
+}
